@@ -1,4 +1,4 @@
 # 勉強の記録
 
-* Java (designパターン)
+* Java(designパターン)
 * Scala(入門)
